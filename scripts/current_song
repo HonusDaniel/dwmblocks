@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 version=7.1.0
 music_player="auto"
-song_format="%artist% - %album% - %title%"
+#song_format="%artist% - %album% - %title%"
+song_format="%artist% - %title%"
 print_info() {
     info song
 }
